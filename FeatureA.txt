@@ -4,8 +4,8 @@ Function()
 {
   //Sample Code
 }
-feature1()
+featureA()
 {
-  //Sample Code for Feature 1 -- Security patch
+  //Sample Code for Feature A -- Security patch
 }
 }
